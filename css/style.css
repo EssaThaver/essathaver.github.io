@@ -283,12 +283,12 @@ p {
 .la-anim-1.la-animate::after {
   opacity: 1; }
 
-.typed-cursor {
+/*.typed-cursor {
   opacity: 1;
   -webkit-animation: blink 0.7s infinite;
   -moz-animation: blink 0.7s infinite;
   animation: blink 0.7s infinite; }
-
+*/
 @keyframes blink {
   0% {
     opacity: 1; }
