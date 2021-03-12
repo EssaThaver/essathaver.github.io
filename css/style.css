@@ -288,7 +288,7 @@ p {
   -webkit-animation: blink 0.7s infinite;
   -moz-animation: blink 0.7s infinite;
   animation: blink 0.7s infinite; }
-*/
+*/f
 @keyframes blink {
   0% {
     opacity: 1; }
@@ -392,10 +392,10 @@ p {
     -webkit-transform: translateX(0%);
     transform: translateX(0%); }
   .content-block .person-img {
-    height: 150px;
-    width: 150px;
+    height: 200px;
+    width: 200px;
     background: url(../img/candidate.png);
-    border-radius: 50%;
+    border-radius: 90%;
     background-repeat: no-repeat;
     background-size: cover; }
 
@@ -698,7 +698,7 @@ a.goto-social, a.goto-social:hover {
     letter-spacing: .5px;
     text-transform: uppercase;
     display: block;
-    padding-bottom: 10px; }
+    padding-bottom: 23px; }
 
 /********Project Sec CSS********/
 .project-gallery a {
