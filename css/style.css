@@ -394,7 +394,7 @@ p {
   .content-block .person-img {
     height: 200px;
     width: 200px;
-    background: url(../img/Profile Pic.png);
+    background: url(/img/Profile\ Pic\ .jpg);
     border-radius: 90%;
     background-repeat: no-repeat;
     background-size: cover; }
