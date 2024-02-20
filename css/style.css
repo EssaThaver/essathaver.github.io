@@ -1,27 +1,4 @@
 @charset "UTF-8";
-
-
-
-
-/* Position text in the middle */
-.middle {
-  position: absolute;
-  top: 50%;
-  left: 50%;
-  transform: translate(-50%, -50%);
-  text-align: center;
-}
-
-/* Style the <hr> element */
-hr {
-  margin: auto;
-  width: 40%;
-}
-
-
-
-
-
 /*------------------------------------------------------------------
 [Master Stylesheet]
 Project:	Eric
@@ -1441,6 +1418,19 @@ footer .goto-top {
 }
 
 
+/* Position text in the middle */
+.middle {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  text-align: center;
+}
 
+/* Style the <hr> element */
+hr {
+  margin: auto;
+  width: 40%;
+}
 
 
